@@ -5,14 +5,14 @@
 
 
 - 💻 Web Developer 
-- 🌱 I’m currently studying Java and PHP...
+- 🌱 Student...
 
 
 <br><br>
 ### Contacts ✉️
 
-  <a href="https://www.twitch.tv/bac0nlin0" target="_blank">
-  💾 twitch 
+  <a href="https://www.linkedin.com/in/brenonlps" target="_blank">
+  💾 Linkedin
   </a>
    <a href="https://www.instagram.com/breno_n.lps/" target="_blank">
   🔴 Instagram
