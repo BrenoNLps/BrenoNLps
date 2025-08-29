@@ -14,9 +14,7 @@
   <a href="https://www.linkedin.com/in/brenonlps" target="_blank">
   💾 Linkedin
   </a>
-   <a href="https://www.instagram.com/breno_n.lps/" target="_blank">
-  🔴 Instagram
-  </a>
+
 
 <!--
 
