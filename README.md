@@ -15,7 +15,7 @@
   <img align="center" alt="melo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="melo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
+  <br>
 <div> 
   <a href="mailto:brenolopes.xyz@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
