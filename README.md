@@ -1,20 +1,4 @@
 
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrenoNLps/f6ead1027f2fcc653f80355a6d85a059/raw/1a602f5ece1810e72d042df0a196fb03cba96337/githubcard.svg"/>
-
-### About me 👋
-
-
-- 💻 Web Developer 
-- 🌱 Student...
-
-
-<br><br>
-### Contacts ✉️
-
-  <a href="https://www.linkedin.com/in/brenonlps" target="_blank">
-  💾 Linkedin
-  </a>
-
 ## Hi there 👋
 ## Olá!! Me Chamo Breno N. Lopes
 <div>
