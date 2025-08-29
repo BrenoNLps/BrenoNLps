@@ -1,6 +1,5 @@
 
-## Hi there 👋
-## Olá!! Me Chamo Breno N. Lopes
+## Hi there my name is Breno N. Lopes
 <div>
   <a href="https://github.com/BrenoNLps">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoNLps&show_icons=true&theme=radical#gh-dark-mode-only)](https://github.com/BrenoNLps/github-readme-stats#gh-dark-mode-only"/>
