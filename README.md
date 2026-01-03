@@ -9,11 +9,11 @@
 
 ###
 
-<h3 align="left">Hi, my name is Breno Lopes.</h3>
+<h1 align="left">Hi, my name is Breno Lopes.</h1>
 
 ###
 
-<p align="left">Full stack web developer.<br>Currently studying systems analysis and development at IFSP.<br><br>Also experienced with java and android development.</p>
+<p align="left">Full stack web developer.<br>Also experienced with java and android development.<br>Currently studying systems analysis and development at IFSP.</p>
 
 ###
 <div> 
