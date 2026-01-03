@@ -2,12 +2,7 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&color=6b2f6c&fontColor=FFFFFF" />
 </div>
 
-###
-
-
 <!-- <img align="left" height="200" src="https://avatars.githubusercontent.com/u/84740260?v=4"  /> -->
-
-###
 
 <h1 align="left">Hi, my name is Breno Lopes.</h1>
 
