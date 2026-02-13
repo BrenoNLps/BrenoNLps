@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">Full stack developer.<br>Also experienced with java and android development.<br>Currently studying systems analysis and development at IFSP.</p>
+<p align="left">Full stack developer.<br>Also experienced with java and python<br>Currently studying systems analysis and development at IFSP.</p>
 
 ###
 <div> 
